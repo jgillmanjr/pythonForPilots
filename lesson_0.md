@@ -1,8 +1,8 @@
-pythonForPilots - Lesson 0
+pythonForPilots - Lesson 0 - Preflight
 ==============
+So you're interested in tinkering with Python. Excellent!
 
 ## Prerequisites
-So apparently you're interested in tinkering with Python. Excellent!
 
 Before we begin, let's get some things taken care of first.
 
@@ -119,8 +119,62 @@ source deactivate
 From here on out, for each lesson you'll want to make sure you're in the environment.
 
 
+## Executing the Code
+There are a few different ways to run the code and work along with the lessons:
+
+1. Create a script and then run it from the command line.
+1. Use IPython and run the code interactively from a terminal.
+1. Use Jupyter Notebook and run the code interactively from a web interface.
+
+### Create and run a script
+This is the most straight forward. You just create a script with your favorite text editor and then run it:
+```
+python script.py
+```
+
+Easy.
+
+### IPython
+IPython is nice because you can interactively run your code.
+
+To install, make sure you're in your Conda environment and:
+```
+pip install ipython
+```
+
+Then to use it:
+```
+ipython
+
+Python 3.7.0 (default, Jun 28 2018, 13:15:42)
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.5.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: a = 1
+
+In [2]: b = 2
+
+In [3]: c = a + b
+
+In [4]: print(c)
+3
+
+In [5]:
+
+```
+And to exit, hit `CTRL+D`
+
+### Jupyter Notebook
+Jupyter Notebook is similar to IPython, but it uses a web interface and offers numerous other niceties.
+
+I think instead of trying to stuff information about that in here, I'll create a lesson for installation and usage. Please note that I am **not** an expert on all the things you can do with it.
+
+If you want, you can also look at the documentation [here](https://jupyter.org/install) and work from there. Besides, it will probably take me a hot minute to write a lesson on that anyways.
+
 ## Recap
 
-So for this lesson, you should have installed Conda and subsequently created an environment called `pythonForPilots` that uses Python 3.7
+So for this lesson, you should have installed Conda and subsequently created an environment called `pythonForPilots` that uses Python 3.7.
+
+You should also know a couple of the different ways to run python code.
 
 If you have any questions, create an issue and I'll try to answer them.
