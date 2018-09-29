@@ -27,9 +27,10 @@ As I get feedback or realize the error of my ways, I'll try to update lessons as
 
 Of course, as I think of more things that might be interesting and appropriate, I'll try and add additional lessons.
 
-## Layout / Format
-For some lessons, such as [Lesson 0](lesson_0.md), will be in markdown format, but most will probably be in Jupyter Notebook format (\*.ipynb).
+I hope someone gets some benefit out of this.
 
-Regardless of the format, the lesson be in the filename.
+-- Jason
 
---Jason
+# Lessons
+
+* [Lesson 0 - Preflight](lesson_0.md)
