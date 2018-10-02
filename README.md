@@ -34,3 +34,4 @@ I hope someone gets some benefit out of this.
 # Lessons
 
 * [Lesson 0 - Preflight](lesson_0.md)
+* [Lesson 1 - The Basics](lesson_1.ipynb)
