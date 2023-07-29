@@ -52,7 +52,9 @@ conda create -n pythonForPilots python=3.7 pip
 
 Basically, what we're doing is creating an environment called `pythonForPilots` that will run Python 3.7 and install pip into the environment. This is important so that `pip` from the root environment isn't used when packages are installed. I'll discuss what `pip` is in a later lesson.
 
-Ultimately though, this will keep things nice and contained.
+As for the actual python version, it's probably best to use what's current. 3.7 was it when this was originally written, but as of this update, it's 3.11, with 3.12 on the way. If you find something shown in the lesson gets depricated with a newer version, please let me know.
+
+Using a conda environment should help keep things nice and contained.
 
 Anyway, you'll see something like this and be asked to proceed:
 
