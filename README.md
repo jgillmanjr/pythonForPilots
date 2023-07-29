@@ -9,13 +9,13 @@ Nothing too fancy.
 ## About the Author
 Well, I'm no one special really.
 
-I'm currently a Business Intelligence engineer for a web hosting company in Michigan.
+I've been working in the data space for a few years now.
 
-While I use python a decent amount in the course of my job, I certainly wouldn't say that I'm an expert. If you see something I messed up in this series, please let me know or feel free to make a pull request.
+While I use python a decent amount, both personally and professionally, I certainly wouldn't say that I'm an expert. If you see something I messed up in this series, please let me know or feel free to make a pull request.
 
-But of course I also happen to be a pilot. I currently have my P/ASEL and should be knocking out my Instrument ride fairly soon.
+I also happen to be a pilot. I currently have my P/ASEL and instrument ratings.
 
-I also have some previous experience ground handling for a 121 operator, so don't be surprised if I end up taking some of that context and applying it to this project.
+Given I have some previous experience ground handling for a 121 operator (and quite a few friends flying 121), don't be surprised if I end up taking some of that context and applying it to this project.
 
 ## Goal
 As mentioned, I won't proclaim to be an expert with python. Given what I currently use it for, and how I've learned the language (basically, dumpster diving docs and Google for specific answers), there's a chance that I might not include something that someone might think "needed" for an introduction. If you identify such a thing, please don't hesitate to let me know.
